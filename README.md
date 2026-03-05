@@ -1,1 +1,1 @@
-# hfoss2024-blogs
+# hfoss2026-blogs
